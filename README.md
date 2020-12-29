@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm David
 
 <!--
 **davydocsurg/davydocsurg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm an enthusiastic entrepreneur with years of experience in the tech industry and a freelancer in web design and development. I'm based in Nigeria, I write Php, Javascript and work with Laravel and Vue JS.
+More so, I'm mostly self tutored and I believe that I can get any job done notwithstanding the level of difficulty.
+
+🔭 I’m currently working on an e-commerce website
+
+📫 How to reach me: <a href="https://davydocsurg.github.io/chibueze/" target="_blank" rel="noopener noreferrer"  class="p-2">website</a>
+
+Twitter: @davydocsurg
+linkedIn: https://www.linkedin.com/in/davidchibueze/
