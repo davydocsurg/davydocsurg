@@ -16,11 +16,15 @@ Here are some ideas to get you started:
 -->
 
 I'm an enthusiastic entrepreneur with years of experience in the tech industry and a freelancer in web design and development. I'm based in Nigeria, I write Php, Javascript and work with Laravel and Vue JS.
+
+<p>
 More so, I'm mostly self tutored and I believe that I can get any job done notwithstanding the level of difficulty.
+</p>
 
 🔭 I’m currently working on an e-commerce website
 
 📫 How to reach me: <a href="https://davydocsurg.github.io/chibueze/" target="_blank" rel="noopener noreferrer"  class="p-2">website</a>
 
-Twitter: @davydocsurg
-linkedIn: https://www.linkedin.com/in/davidchibueze/
+Twitter: <a href="https://twitter.com/davydocsurg" target="_blank" rel="noopener noreferrer"  class="p-2">@davydocsurg</a>
+<br/>
+linkedIn: <a href="https://www.linkedin.com/in/davidchibueze/" target="_blank" rel="noopener noreferrer"  class="p-2">David Chibueze</a>
