@@ -23,7 +23,13 @@ More so, I'm mostly self tutored and I believe that I can get any job done notwi
 
 🔭 I’m currently working on an e-commerce website
 
-📫 How to reach me: <a href="https://davydocsurg.github.io/chibueze/" target="_blank" rel="noopener noreferrer"  class="p-2">website</a>
+📫 How to reach me:
+
+Email: <a href="mailto:davydocsurg@gmail.com" class="mail-to"
+                    ><b>davydocsurg@gmail.com</b></a
+                  >
+
+<a href="https://davydocsurg.github.io/chibueze/" target="_blank" rel="noopener noreferrer"  class="p-2">website</a>
 
 Twitter: <a href="https://twitter.com/davydocsurg" target="_blank" rel="noopener noreferrer"  class="p-2">@davydocsurg</a>
 <br/>
