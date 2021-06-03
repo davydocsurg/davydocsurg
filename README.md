@@ -29,7 +29,7 @@ Email: <a href="mailto:davydocsurg@gmail.com" class="mail-to"
                     ><b>davydocsurg@gmail.com</b></a
                   >
 
-<a href="https://davydocsurg.github.io/chibueze/" target="_blank" rel="noopener noreferrer"  class="p-2">Personal Website</a>
+<a href="https://davydocsurg.github.io" target="_blank" rel="noopener noreferrer"  class="p-2">Personal Website</a>
 
 Twitter: <a href="https://twitter.com/davydocsurg" target="_blank" rel="noopener noreferrer"  class="p-2">@davydocsurg</a>
 <br/>
