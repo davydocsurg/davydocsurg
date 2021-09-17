@@ -1,36 +1,98 @@
-### Hi there 👋 I'm David
+<div align="center" id="top"> 
+  <img src="./.github/app.gif" alt="Davydocsurg" />
 
-<!--
-**davydocsurg/davydocsurg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  &#xa0;
 
-Here are some ideas to get you started:
+  <!-- <a href="https://davydocsurg.netlify.app">Demo</a> -->
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center">Davydocsurg</h1>
 
-I'm an enthusiastic entrepreneur with years of experience in the tech industry and a freelancer in web design and development. I'm based in Nigeria, I write Php, Javascript and work with Laravel and Vue JS.
+<p align="center">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/{{YOUR_GITHUB_USERNAME}}/davydocsurg?color=56BEB8">
 
-<p>
-More so, I'm mostly self tutored and I believe that I can get any job done notwithstanding the level of difficulty.
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/{{YOUR_GITHUB_USERNAME}}/davydocsurg?color=56BEB8">
+
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/{{YOUR_GITHUB_USERNAME}}/davydocsurg?color=56BEB8">
+
+  <img alt="License" src="https://img.shields.io/github/license/{{YOUR_GITHUB_USERNAME}}/davydocsurg?color=56BEB8">
+
+  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/{{YOUR_GITHUB_USERNAME}}/davydocsurg?color=56BEB8" /> -->
+
+  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/{{YOUR_GITHUB_USERNAME}}/davydocsurg?color=56BEB8" /> -->
+
+  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/{{YOUR_GITHUB_USERNAME}}/davydocsurg?color=56BEB8" /> -->
 </p>
 
-🔭 I’m currently working on an e-commerce website
+<!-- Status -->
 
-📫 How to reach me:
+<!-- <h4 align="center"> 
+	🚧  Davydocsurg 🚀 Under construction...  🚧
+</h4> 
 
-Email: <a href="mailto:davydocsurg@gmail.com" class="mail-to"
-                    ><b>davydocsurg@gmail.com</b></a
-                  >
+<hr> -->
 
-<a href="https://davydocsurg.github.io/chibueze/" target="_blank" rel="noopener noreferrer"  class="p-2">website</a>
+<p align="center">
+  <a href="#dart-about">About</a> &#xa0; | &#xa0; 
+  <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
+  <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
+  <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
+  <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
+  <a href="#memo-license">License</a> &#xa0; | &#xa0;
+  <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">Author</a>
+</p>
 
-Twitter: <a href="https://twitter.com/davydocsurg" target="_blank" rel="noopener noreferrer"  class="p-2">@davydocsurg</a>
-<br/>
-linkedIn: <a href="https://www.linkedin.com/in/davidchibueze/" target="_blank" rel="noopener noreferrer"  class="p-2">David Chibueze</a>
+<br>
+
+## :dart: About ##
+
+Describe your project
+
+## :sparkles: Features ##
+
+:heavy_check_mark: Feature 1;\
+:heavy_check_mark: Feature 2;\
+:heavy_check_mark: Feature 3;
+
+## :rocket: Technologies ##
+
+The following tools were used in this project:
+
+- [Expo](https://expo.io/)
+- [Node.js](https://nodejs.org/en/)
+- [React](https://pt-br.reactjs.org/)
+- [React Native](https://reactnative.dev/)
+- [TypeScript](https://www.typescriptlang.org/)
+
+## :white_check_mark: Requirements ##
+
+Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
+
+## :checkered_flag: Starting ##
+
+```bash
+# Clone this project
+$ git clone https://github.com/{{YOUR_GITHUB_USERNAME}}/davydocsurg
+
+# Access
+$ cd davydocsurg
+
+# Install dependencies
+$ yarn
+
+# Run the project
+$ yarn start
+
+# The server will initialize in the <http://localhost:3000>
+```
+
+## :memo: License ##
+
+This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
+
+
+Made with :heart: by <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">{{YOUR_NAME}}</a>
+
+&#xa0;
+
+<a href="#top">Back to top</a>
