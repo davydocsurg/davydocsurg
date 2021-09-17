@@ -128,5 +128,4 @@ Made with :heart: by <a href="https://davydocsurg.github.io" target="_blank">Dav
 &#xa0;
 
 <a href="#top">Back to top</a>
-
-	</div>
+</div>
