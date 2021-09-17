@@ -12,6 +12,14 @@
   <a href="https://twitter.com/davydocsurg" target="_blank" style='margin-right:10px'>
     <img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" style='color: #3f63f2 !important' alt="twitter" height="22px" width="22px" />
   </a>
+	
+	<a href="https://linkedin.com/in/davidchibueze/" target="_blank" style='margin-right:10px'>
+    <img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style='color: #3f63f2 !important' alt="twitter" height="22px" width="22px" />
+  </a>
+	
+	<a href="https://twitter.com/davydocsurg" target="_blank" style='margin-right:10px'>
+    <img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" style='color: #3f63f2 !important' alt="twitter" height="22px" width="22px" />
+  </a>
 </p>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=davydocsurg.davydocsurg)
