@@ -84,33 +84,7 @@ My stack include:
 
 ## :chart_with_upwards_trend: My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
-
-<!-- ## :white_check_mark: Requirements
-
- Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed. -->
-
-<!-- ## :checkered_flag: Starting -->
-
-<!-- ```bash
-# Clone this project
-$ git clone https://github.com/{{davydocsurg}}/davydocsurg
-
-# Access
-$ cd davydocsurg
-
-# Install dependencies
-$ yarn
-
-# Run the project
-$ yarn start
-
-# The server will initialize in the <http://localhost:3000>
-```
-
-## :memo: License
-
-This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file. -->
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=davydocsurg&show_icons=true&theme=gotham" alt="davydocsurg's github stats" />
 
 Made with :heart: by <a href="https://davydocsurg.github.io" target="_blank">David Chibueze</a>
 
