@@ -103,7 +103,7 @@ My stack include:
 
  Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed. -->
 
-## :checkered_flag: Starting
+<!-- ## :checkered_flag: Starting -->
 
 <!-- ```bash
 # Clone this project
