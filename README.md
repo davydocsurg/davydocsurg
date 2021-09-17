@@ -10,7 +10,7 @@
 
 <p align="center" style="margin: -20px 0 30px">
   <a href="https://twitter.com/davydocsurg" target="_blank" style='margin-right:10px'>
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" style='color: #3f63f2 !important' alt="twitter" height="22px" width="22px" />
+    <img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" style='color: #3f63f2 !important' alt="twitter" height="22px" width="22px" />
   </a>
 </p>
 
