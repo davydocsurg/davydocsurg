@@ -21,12 +21,12 @@
 	<a href="https://linkedin.com/in/davidchibueze/" target="_blank" style='margin-right:10px'>
     <img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style='color: #3f63f2 !important' alt="David Chibueze's linkedin profile" height="22px" width="22px" />
   </a>
-	
+
 </p>
 <div align="center" >
-	
+
 ![](https://visitor-badge.glitch.me/badge?page_id=davydocsurg.davydocsurg)
-	
+
 </div>
 	<div align="center">
   <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davydocsurg&layout=compact&hide_title=1&card_width=300" alt="Top languages used in my repositories" />
@@ -95,7 +95,9 @@ My stack include:
 - [Laravel](https://laravel.com/)
 - [SQL/MySQL](https://mysql.com/)
 
+## :chart_with_upwards_trend: My GitHub Stats
 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 
 <!-- ## :white_check_mark: Requirements
 
@@ -128,4 +130,5 @@ Made with :heart: by <a href="https://davydocsurg.github.io" target="_blank">Dav
 &#xa0;
 
 <a href="#top">Back to top</a>
+
 </div>
