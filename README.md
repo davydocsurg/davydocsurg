@@ -58,6 +58,7 @@
 ## :dart: About
 
 Hi, I'm [David](https://davydocsurg.github.io), a enthusiastic self-taught full stack web developer and a freelance software engineer.
+	I love learning and exploring new ideas and technologies. I'm currently learning [ReactJS](https://reactjs.org/)
 
 <!-- ## :sparkles: Features
 
