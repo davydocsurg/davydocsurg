@@ -7,7 +7,7 @@
   <!-- <a href="https://davydocsurg.netlify.app">Demo</a> -->
 </div>
 
-### <div align='center'>Hi 👋 </div>
+### <div align='center'>Hi 👋🏼 </div>
 
 <p align="center" >
 			<a href="https://davydocsurg.github.io" target="_blank" style='margin-right:10px'>
@@ -57,7 +57,7 @@
 
 ## :dart: About
 
-Hi, I'm [David](https://davydocsurg.github.io), a enthusiastic self-taught full stack web developer and a freelance software engineer.
+Hi, I'm [Chibueze](https://davydocsurg.github.io), a enthusiastic self-taught full stack web developer and a freelance software engineer.
 	I love learning and exploring new ideas and technologies. I'm currently working on a SaaS.
 
 <!-- ## :sparkles: Features
