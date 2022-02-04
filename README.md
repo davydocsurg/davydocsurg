@@ -87,7 +87,7 @@ My stack include:
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=davydocsurg&show_icons=true&theme=gotham" alt="davydocsurg's github stats" />
 
-Made with :heart: by <a href="https://davydocsurg.github.io" target="_blank">David Chibueze</a>
+Made with :heart: by <a href="https://davydocsurg.github.io" target="_blank">David Chibueze Ndubuisi</a>
 
 &#xa0;
 
