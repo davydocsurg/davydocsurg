@@ -4,13 +4,12 @@
 
 <!-- &#xa0; -->
 
-  <!-- <a href="https://davydocsurg.netlify.app">Demo</a> -->
 </div>
 
 ### <div align='center'>Hi 👋🏼 </div>
 
 <p align="center" >
-			<a href="https://davydocsurg.github.io" target="_blank" style='margin-right:10px'>
+			<a href="https://chibueze.me" target="_blank" style='margin-right:10px'>
      🔗
   </a>
 			  &nbsp;&nbsp;
@@ -57,9 +56,7 @@
 
 ## :dart: About
 
-Hi, I'm [Chibueze](https://davydocsurg.github.io), a enthusiastic self-taught full stack web developer and a freelance software engineer.
-	I love learning and exploring new ideas and technologies. I'm currently working on a SaaS.
-
+Hi, I'm [David](https://chibueze.me), a self-taught software engineer with a passion for pushing the boundaries of what's possible. Constantly seeking out new challenges and ways to expand my skillset, I have a proven track record of developing innovative and effective solutions for a wide range of projects. With a strong foundation in JavaScript, TypeScript and PHP, I am a versatile and adaptable developer who is always eager to learn and grow. Let's collaborate and create something amazing!
 <!-- ## :sparkles: Features
 
 :heavy_check_mark: Feature 1;\
@@ -70,17 +67,18 @@ Hi, I'm [Chibueze](https://davydocsurg.github.io), a enthusiastic self-taught fu
 
 My stack include:
 
- [HTML](https://en.wikipedia.org/wiki/HTML)
- [CSS](https://en.wikipedia.org/wiki/CSS)
- [SCSS](https://sass-lang.com/)
- [Bootstrap](https://getbootstrap.com/)
- [TailwindCSS](https://tailwindcss.com/.com/)
- [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
- [TypeScript](https://www.typescriptlang.org/)
- [PHP](https://php.net/)
- [VueJS](https://vuejs.org/)
- [React](https://reactjs.org/)
- [Laravel](https://laravel.com/)
+ [HTML](https://en.wikipedia.org/wiki/HTML),
+ [CSS](https://en.wikipedia.org/wiki/CSS),
+ [SCSS](https://sass-lang.com/),
+ [Bootstrap](https://getbootstrap.com/),
+ [TailwindCSS](https://tailwindcss.com/.com/),
+ [JavaScript](https://en.wikipedia.org/wiki/JavaScript),
+ [TypeScript](https://www.typescriptlang.org/),
+ [PHP](https://php.net/),
+ [VueJS](https://vuejs.org/),
+ [React](https://reactjs.org/),
+ [React Native](https://reactnative.dev/)
+ [Laravel](https://laravel.com/),
  [SQL/MySQL](https://mysql.com/)
 
 ## :chart_with_upwards_trend: My GitHub Stats
