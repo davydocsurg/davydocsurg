@@ -6,9 +6,12 @@
 
 </div>
 
-### <div align='center'>Hi 👋🏼 </div>
+### <div align='center'>
+  Hi 👋🏼, I'm [David](https://chibueze.me), a self-taught software engineer with a passion for pushing the boundaries of what's possible. Constantly seeking out new challenges and ways to expand my skillset, I have a proven track record of developing innovative and effective solutions for a wide range of projects. With a strong foundation in JavaScript, TypeScript and PHP, I am a versatile and adaptable developer who is always eager to learn and grow. Let's collaborate and create something amazing!
+</div>
 
 <p align="center" >
+### Socials:
 	<a href="https://chibueze.me" target="_blank" style='margin-right:10px'>
      👨🏻‍💻
   </a>
@@ -52,9 +55,9 @@
 	🚧  Socialite 🚀 Under construction...  🚧
 </h4> -->
 
-## :dart: About
+<!-- ## :dart: About -->
 
-Hi, I'm [David](https://chibueze.me), a self-taught software engineer with a passion for pushing the boundaries of what's possible. Constantly seeking out new challenges and ways to expand my skillset, I have a proven track record of developing innovative and effective solutions for a wide range of projects. With a strong foundation in JavaScript, TypeScript and PHP, I am a versatile and adaptable developer who is always eager to learn and grow. Let's collaborate and create something amazing!
+
 <!-- ## :sparkles: Features
 
 :heavy_check_mark: Feature 1;\
