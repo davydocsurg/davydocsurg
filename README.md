@@ -70,7 +70,7 @@ Hi, I'm [Chibueze](https://davydocsurg.github.io), a enthusiastic self-taught fu
 
 My stack include:
 
-- [HTML](https://en.wikipedia.org/wiki/HTML)
+ [HTML](https://en.wikipedia.org/wiki/HTML)
 - [CSS](https://en.wikipedia.org/wiki/CSS)
 - [SCSS](https://sass-lang.com/)
 - [Bootstrap](https://getbootstrap.com/)
