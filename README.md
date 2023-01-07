@@ -30,7 +30,7 @@
 	<div align="center">
   <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davydocsurg&layout=compact&hide_title=1&card_width=300" alt="Top languages used in my repositories" />
 </div>
-<!-- <p align="center">
+<p align="center">
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/davydocsurg/davydocsurg?color=56BEB8">
 
   <img alt="Github language count" src="https://img.shields.io/github/languages/count/davydocsurg/davydocsurg?color=56BEB8">
@@ -44,7 +44,7 @@
   <img alt="Github forks" src="https://img.shields.io/github/forks/davydocsurg/davydocsurg?color=56BEB8" />
 
   <img alt="Github stars" src="https://img.shields.io/github/stars/davydocsurg/davydocsurg?color=56BEB8" />
-</p> -->
+</p>
 
 <!-- Status -->
 
