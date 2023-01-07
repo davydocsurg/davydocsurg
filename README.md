@@ -1,33 +1,19 @@
-<div align='center'>
-	<div align="center" id="top">
-  <!-- <img src="./.github/app.gif" alt="Davydocsurg" /> -->
-
-<!-- &#xa0; -->
-
-</div>
-
-### <div align='center'>
+ ## :dart: About Me:
   Hi 👋🏼, I'm [David](https://chibueze.me), a self-taught software engineer with a passion for pushing the boundaries of what's possible. Constantly seeking out new challenges and ways to expand my skillset, I have a proven track record of developing innovative and effective solutions for a wide range of projects. With a strong foundation in JavaScript, TypeScript and PHP, I am a versatile and adaptable developer who is always eager to learn and grow. Let's collaborate and create something amazing!
-</div>
 
-<p align="center" >
-### Socials:
-	<a href="https://chibueze.me" target="_blank" style='margin-right:10px'>
-     👨🏻‍💻
-  </a>
-			  &nbsp;&nbsp;
-  <a href="https://twitter.com/davydocsurg" target="_blank" style='margin-right:10px'>
-    <img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" style='color: #3f63f2 !important' alt="David Chibueze's twitter profile" height="22px" width="22px" />
-  </a>
-	  &nbsp;&nbsp;
-	<a href="https://linkedin.com/in/davydocsurg/" target="_blank" style='margin-right:10px'>
-    <img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style='color: #3f63f2 !important' alt="David Chibueze's linkedin profile" height="22px" width="22px" />
-  </a>
 
-</p>
-<div align="center" >
+
+ ### Socials:
+-  [ Portfolio Website 👨🏻‍💻 ](https://chibueze.me)
+ - [ LinkedIn ](https://linkedin.com/in/davydocsurg)
+ - [ Twitter ](https://twitter.com/davydocsurg)
+
 
 ![](https://visitor-badge.glitch.me/badge?page_id=davydocsurg.davydocsurg)
+
+
+
+
 
 <!-- </div>
 	<div align="center">
@@ -88,8 +74,6 @@ My stack include:
 
 Made with :heart: by <a href="https://chibueze.me" target="_blank">David Chibueze Ndubuisi</a>
 
-&#xa0;
 
-<a href="#top">Back to top</a>
 
-</div>
+
