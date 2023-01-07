@@ -9,15 +9,15 @@
 ### <div align='center'>Hi 👋🏼 </div>
 
 <p align="center" >
-			<a href="https://chibueze.me" target="_blank" style='margin-right:10px'>
-     🔗
+	<a href="https://chibueze.me" target="_blank" style='margin-right:10px'>
+     👨🏻‍💻
   </a>
 			  &nbsp;&nbsp;
   <a href="https://twitter.com/davydocsurg" target="_blank" style='margin-right:10px'>
     <img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" style='color: #3f63f2 !important' alt="David Chibueze's twitter profile" height="22px" width="22px" />
   </a>
 	  &nbsp;&nbsp;
-	<a href="https://linkedin.com/in/davidchibueze/" target="_blank" style='margin-right:10px'>
+	<a href="https://linkedin.com/in/davydocsurg/" target="_blank" style='margin-right:10px'>
     <img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style='color: #3f63f2 !important' alt="David Chibueze's linkedin profile" height="22px" width="22px" />
   </a>
 
