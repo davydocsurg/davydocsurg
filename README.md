@@ -71,23 +71,23 @@ Hi, I'm [Chibueze](https://davydocsurg.github.io), a enthusiastic self-taught fu
 My stack include:
 
  [HTML](https://en.wikipedia.org/wiki/HTML)
-- [CSS](https://en.wikipedia.org/wiki/CSS)
-- [SCSS](https://sass-lang.com/)
-- [Bootstrap](https://getbootstrap.com/)
-- [TailwindCSS](https://tailwindcss.com/.com/)
-- [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
-- [TypeScript](https://www.typescriptlang.org/)
-- [PHP](https://php.net/)
-- [VueJS](https://vuejs.org/)
-- [React](https://reactjs.org/)
-- [Laravel](https://laravel.com/)
-- [SQL/MySQL](https://mysql.com/)
+ [CSS](https://en.wikipedia.org/wiki/CSS)
+ [SCSS](https://sass-lang.com/)
+ [Bootstrap](https://getbootstrap.com/)
+ [TailwindCSS](https://tailwindcss.com/.com/)
+ [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
+ [TypeScript](https://www.typescriptlang.org/)
+ [PHP](https://php.net/)
+ [VueJS](https://vuejs.org/)
+ [React](https://reactjs.org/)
+ [Laravel](https://laravel.com/)
+ [SQL/MySQL](https://mysql.com/)
 
 ## :chart_with_upwards_trend: My GitHub Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=davydocsurg&show_icons=true&theme=gotham" alt="davydocsurg's github stats" />
 
-Made with :heart: by <a href="https://davydocsurg.github.io" target="_blank">David Chibueze Ndubuisi</a>
+Made with :heart: by <a href="https://chibueze.me" target="_blank">David Chibueze Ndubuisi</a>
 
 &#xa0;
 
