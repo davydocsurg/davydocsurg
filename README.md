@@ -70,10 +70,6 @@ My stack include:
 
 ## :chart_with_upwards_trend: My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=davydocsurg&show_icons=true&theme=gotham" alt="davydocsurg's github stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=davydocsurg&show_icons=true&theme=gotham" alt="davydocsurg's github stats" />
 
 Made with :heart: by <a href="https://chibueze.me" target="_blank">David Chibueze Ndubuisi</a>
-
-
-
-
